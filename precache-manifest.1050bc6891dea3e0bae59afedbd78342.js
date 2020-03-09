@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae72a50e8f66d44cb9763f5edb5d749a",
+    "revision": "1227b664c5e9ebf9f3718d060530b3ce",
     "url": "/TPWICDWY/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TPWICDWY/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "40f9baeb747cf02ab99f",
+    "revision": "0650fd9bda33bc43407b",
     "url": "/TPWICDWY/static/css/main.9e74ccc8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TPWICDWY/static/js/2.47ebb590.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40f9baeb747cf02ab99f",
-    "url": "/TPWICDWY/static/js/main.fd1c367b.chunk.js"
+    "revision": "0650fd9bda33bc43407b",
+    "url": "/TPWICDWY/static/js/main.2e1d49da.chunk.js"
   },
   {
     "revision": "5a568ddbc150a1be2e44",
